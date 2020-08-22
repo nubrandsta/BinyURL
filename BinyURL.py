@@ -6,7 +6,7 @@ import os
 memory = {}
 
 form = '''<!DOCTYPE html>
-<title>Bookmark Server</title>
+<title>Biny URL</title>
 <form method="POST">
     <label>Long URI:
         <input name="longurl">
