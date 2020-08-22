@@ -1,1 +1,1 @@
-worker: python BinyURL.py
+web: python BinyURL.py
